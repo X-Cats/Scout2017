@@ -1,0 +1,50 @@
+/*.root{
+	-fx-background-color: #2d2d2d;
+	-fx-text-fill: #dedede;
+}
+.text{
+	-fx-font: 10pt "Fira Sans";
+	-fx-fill: #dedede;
+}
+.button{
+	-fx-background-color: #d64937;
+	-fx-background-insets: 0,0,0;
+	-fx-background-radius: 0,0,0;
+	-fx-text-fill: black;
+	-fx-font-size: 14px;
+}
+.check-box .box{
+	-fx-background-color:#d64937;
+	-fx-background-insets: 0,0,0;
+	-fx-background-radius: 0,0,0;
+}
+.check-box{
+	-fx-text-fill: #dedede;
+	-fx-font: 10pt "Fira Sans";
+}
+.menu-bar{
+	-fx-background-color: #d64937;
+}
+
+.radio-button .radio{
+	-fx-background-color: #d64937;
+	-fx-color: #dedede;
+}
+.radio-button{
+	-fx-text-fill: #dedede;
+	-fx-font: 10pt "Fira Sans";
+}
+.text-field{
+	-fx-background-color: #333333;
+	-fx-background-insets: 0,0,0;
+	-fx-background-radius: 0,0,0;
+	-fx-text-fill: #dedede;
+}
+.text-area .content{
+	-fx-background-color: #333333;
+	-fx-background-insets: 0,0,0;
+	-fx-background-radius: 0,0,0;
+}
+.text-area{
+	-fx-text-fill: #dedede;
+}*/
